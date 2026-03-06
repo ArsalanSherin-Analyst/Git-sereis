@@ -1,0 +1,2 @@
+this is a text in file in git init 
+try to write some text for 2nd commit
